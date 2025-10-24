@@ -1,0 +1,250 @@
+ID_Transaccion,Fecha,Sucursal,ID_Comprador,ID_Producto,Producto,Categoria,Precio_Unitario,Cantidad,Valor_Total
+T044,2025-09-01 12:34:24,Centro,C061,3001,Manzanas (libra),Frutas y Verduras,0.85,3,2.55
+T044,2025-09-01 12:34:24,Centro,C061,6001,Gaseosa 2L,Bebidas,2.5,5,12.5
+T044,2025-09-01 12:34:24,Centro,C061,1002,Queso Fresco 500g,Lácteos,2.5,4,10.0
+T044,2025-09-01 12:34:24,Centro,C061,1001,Leche Entera 1L,Lácteos,1.1,2,2.2
+T097,2025-09-01 17:59:11,Sur,C061,6002,Jugo de Naranja 1L,Bebidas,1.75,5,8.75
+T097,2025-09-01 17:59:11,Sur,C061,1003,Yogurt Natural 1L,Lácteos,1.8,3,5.4
+T097,2025-09-01 17:59:11,Sur,C061,3004,Lechuga Crespa,Frutas y Verduras,0.45,5,2.25
+T158,2025-09-01 18:00:48,Norte,C062,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,4,2.8
+T158,2025-09-01 18:00:48,Norte,C062,1001,Leche Entera 1L,Lácteos,1.1,5,5.5
+T158,2025-09-01 18:00:48,Norte,C062,1003,Yogurt Natural 1L,Lácteos,1.8,1,1.8
+T158,2025-09-01 18:00:48,Norte,C062,7001,Shampoo,Cuidado Personal,4.5,5,22.5
+T046,2025-09-01 19:33:32,Centro,C025,8001,Detergente Líquido 1L,Limpieza,5.0,4,20.0
+T046,2025-09-01 19:33:32,Centro,C025,7001,Shampoo,Cuidado Personal,4.5,1,4.5
+T046,2025-09-01 19:33:32,Centro,C025,3002,Plátanos (libra),Frutas y Verduras,0.6,1,0.6
+T040,2025-09-01 20:09:59,Sur,C084,3001,Manzanas (libra),Frutas y Verduras,0.85,2,1.7
+T040,2025-09-01 20:09:59,Sur,C084,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,5,15.0
+T040,2025-09-01 20:09:59,Sur,C084,3001,Manzanas (libra),Frutas y Verduras,0.85,4,3.4
+T031,2025-09-02 12:40:49,Centro,C037,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,4,2.8
+T031,2025-09-02 12:40:49,Centro,C037,6002,Jugo de Naranja 1L,Bebidas,1.75,5,8.75
+T172,2025-09-02 12:56:18,Norte,C047,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T172,2025-09-02 12:56:18,Norte,C047,5001,Arroz (kg),Granos y Abarrotes,1.6,4,6.4
+T195,2025-09-02 15:24:20,Norte,C062,6002,Jugo de Naranja 1L,Bebidas,1.75,4,7.0
+T195,2025-09-02 15:24:20,Norte,C062,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,1,3.0
+T195,2025-09-02 15:24:20,Norte,C062,8001,Detergente Líquido 1L,Limpieza,5.0,5,25.0
+T150,2025-09-02 15:33:35,Centro,C017,3002,Plátanos (libra),Frutas y Verduras,0.6,3,1.8
+T150,2025-09-02 15:33:35,Centro,C017,6002,Jugo de Naranja 1L,Bebidas,1.75,2,3.5
+T092,2025-09-03 13:30:27,Norte,C054,1002,Queso Fresco 500g,Lácteos,2.5,2,5.0
+T171,2025-09-03 14:01:56,Norte,C026,6002,Jugo de Naranja 1L,Bebidas,1.75,5,8.75
+T171,2025-09-03 14:01:56,Norte,C026,6002,Jugo de Naranja 1L,Bebidas,1.75,3,5.25
+T187,2025-09-03 14:16:22,Sur,C022,6001,Gaseosa 2L,Bebidas,2.5,3,7.5
+T038,2025-09-03 18:21:31,Norte,C097,5001,Arroz (kg),Granos y Abarrotes,1.6,5,8.0
+T038,2025-09-03 18:21:31,Norte,C097,5002,Lentejas (kg),Granos y Abarrotes,1.4,5,7.0
+T038,2025-09-03 18:21:31,Norte,C097,2002,Croissants (unidad),Panadería,0.5,4,2.0
+T038,2025-09-03 18:21:31,Norte,C097,3004,Lechuga Crespa,Frutas y Verduras,0.45,5,2.25
+T043,2025-09-03 20:26:05,Sur,C079,2001,Pan de Molde Blanco,Panadería,1.9,3,5.7
+T043,2025-09-03 20:26:05,Sur,C079,3002,Plátanos (libra),Frutas y Verduras,0.6,1,0.6
+T043,2025-09-03 20:26:05,Sur,C079,6002,Jugo de Naranja 1L,Bebidas,1.75,1,1.75
+T043,2025-09-03 20:26:05,Sur,C079,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,3,2.1
+T043,2025-09-03 20:26:05,Sur,C079,5003,Atún en lata,Granos y Abarrotes,1.2,5,6.0
+T069,2025-09-03 20:35:45,Norte,C086,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T069,2025-09-03 20:35:45,Norte,C086,6002,Jugo de Naranja 1L,Bebidas,1.75,1,1.75
+T192,2025-09-04 12:02:32,Centro,C036,1001,Leche Entera 1L,Lácteos,1.1,3,3.3
+T192,2025-09-04 12:02:32,Centro,C036,6002,Jugo de Naranja 1L,Bebidas,1.75,3,5.25
+T192,2025-09-04 12:02:32,Centro,C036,2001,Pan de Molde Blanco,Panadería,1.9,5,9.5
+T095,2025-09-04 20:00:49,Sur,C015,6002,Jugo de Naranja 1L,Bebidas,1.75,1,1.75
+T095,2025-09-04 20:00:49,Sur,C015,2001,Pan de Molde Blanco,Panadería,1.9,1,1.9
+T095,2025-09-04 20:00:49,Sur,C015,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,3,9.0
+T095,2025-09-04 20:00:49,Sur,C015,6001,Gaseosa 2L,Bebidas,2.5,2,5.0
+T138,2025-09-05 11:00:33,Centro,C019,3004,Lechuga Crespa,Frutas y Verduras,0.45,3,1.35
+T138,2025-09-05 11:00:33,Centro,C019,5002,Lentejas (kg),Granos y Abarrotes,1.4,2,2.8
+T063,2025-09-05 12:04:42,Norte,C073,1002,Queso Fresco 500g,Lácteos,2.5,4,10.0
+T039,2025-09-05 12:06:07,Centro,C011,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,4,8.8
+T061,2025-09-05 14:06:28,Centro,C064,5002,Lentejas (kg),Granos y Abarrotes,1.4,5,7.0
+T061,2025-09-05 14:06:28,Centro,C064,5001,Arroz (kg),Granos y Abarrotes,1.6,1,1.6
+T134,2025-09-05 17:04:57,Norte,C061,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,4,8.8
+T107,2025-09-05 19:50:21,Centro,C095,4002,Carne Molida (libra),Carnes,3.5,1,3.5
+T107,2025-09-05 19:50:21,Centro,C095,1001,Leche Entera 1L,Lácteos,1.1,4,4.4
+T107,2025-09-05 19:50:21,Centro,C095,1003,Yogurt Natural 1L,Lácteos,1.8,3,5.4
+T107,2025-09-05 19:50:21,Centro,C095,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T017,2025-09-06 12:13:53,Centro,C053,1001,Leche Entera 1L,Lácteos,1.1,4,4.4
+T017,2025-09-06 12:13:53,Centro,C053,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,5,3.5
+T017,2025-09-06 12:13:53,Centro,C053,2002,Croissants (unidad),Panadería,0.5,5,2.5
+T017,2025-09-06 12:13:53,Centro,C053,1002,Queso Fresco 500g,Lácteos,2.5,3,7.5
+T017,2025-09-06 12:13:53,Centro,C053,6002,Jugo de Naranja 1L,Bebidas,1.75,4,7.0
+T104,2025-09-06 12:50:17,Sur,C022,3004,Lechuga Crespa,Frutas y Verduras,0.45,5,2.25
+T104,2025-09-06 12:50:17,Sur,C022,4002,Carne Molida (libra),Carnes,3.5,4,14.0
+T174,2025-09-06 14:42:35,Centro,C083,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,1,2.2
+T174,2025-09-06 14:42:35,Centro,C083,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,3,6.6
+T174,2025-09-06 14:42:35,Centro,C083,6002,Jugo de Naranja 1L,Bebidas,1.75,2,3.5
+T174,2025-09-06 14:42:35,Centro,C083,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,3,2.1
+T035,2025-09-06 15:44:58,Sur,C053,6001,Gaseosa 2L,Bebidas,2.5,1,2.5
+T176,2025-09-07 11:51:29,Norte,C084,1002,Queso Fresco 500g,Lácteos,2.5,5,12.5
+T176,2025-09-07 11:51:29,Norte,C084,4003,Jamón de Pavo 250g,Carnes,2.8,2,5.6
+T176,2025-09-07 11:51:29,Norte,C084,4001,Pollo Entero (libra),Carnes,2.1,3,6.3
+T176,2025-09-07 11:51:29,Norte,C084,1001,Leche Entera 1L,Lácteos,1.1,5,5.5
+T176,2025-09-07 11:51:29,Norte,C084,3002,Plátanos (libra),Frutas y Verduras,0.6,5,3.0
+T072,2025-09-07 14:08:05,Norte,C053,2002,Croissants (unidad),Panadería,0.5,4,2.0
+T072,2025-09-07 14:08:05,Norte,C053,4001,Pollo Entero (libra),Carnes,2.1,1,2.1
+T072,2025-09-07 14:08:05,Norte,C053,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,2,6.0
+T072,2025-09-07 14:08:05,Norte,C053,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,4,8.8
+T072,2025-09-07 14:08:05,Norte,C053,4001,Pollo Entero (libra),Carnes,2.1,4,8.4
+T003,2025-09-07 16:51:11,Sur,C076,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T003,2025-09-07 16:51:11,Sur,C076,1003,Yogurt Natural 1L,Lácteos,1.8,2,3.6
+T003,2025-09-07 16:51:11,Sur,C076,2001,Pan de Molde Blanco,Panadería,1.9,5,9.5
+T141,2025-09-08 14:43:41,Centro,C050,3002,Plátanos (libra),Frutas y Verduras,0.6,4,2.4
+T141,2025-09-08 14:43:41,Centro,C050,3004,Lechuga Crespa,Frutas y Verduras,0.45,4,1.8
+T105,2025-09-08 16:19:32,Sur,C008,4003,Jamón de Pavo 250g,Carnes,2.8,2,5.6
+T105,2025-09-08 16:19:32,Sur,C008,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,2,6.0
+T105,2025-09-08 16:19:32,Sur,C008,4002,Carne Molida (libra),Carnes,3.5,5,17.5
+T016,2025-09-09 10:47:20,Centro,C100,1002,Queso Fresco 500g,Lácteos,2.5,2,5.0
+T016,2025-09-09 10:47:20,Centro,C100,3002,Plátanos (libra),Frutas y Verduras,0.6,4,2.4
+T016,2025-09-09 10:47:20,Centro,C100,6002,Jugo de Naranja 1L,Bebidas,1.75,1,1.75
+T016,2025-09-09 10:47:20,Centro,C100,4002,Carne Molida (libra),Carnes,3.5,1,3.5
+T163,2025-09-09 13:13:31,Norte,C054,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,3,6.6
+T163,2025-09-09 13:13:31,Norte,C054,4002,Carne Molida (libra),Carnes,3.5,3,10.5
+T163,2025-09-09 13:13:31,Norte,C054,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,2,6.0
+T116,2025-09-09 13:46:16,Centro,C033,2002,Croissants (unidad),Panadería,0.5,2,1.0
+T116,2025-09-09 13:46:16,Centro,C033,5001,Arroz (kg),Granos y Abarrotes,1.6,1,1.6
+T116,2025-09-09 13:46:16,Centro,C033,1002,Queso Fresco 500g,Lácteos,2.5,3,7.5
+T116,2025-09-09 13:46:16,Centro,C033,8001,Detergente Líquido 1L,Limpieza,5.0,1,5.0
+T136,2025-09-09 15:42:06,Norte,C100,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,4,2.8
+T147,2025-09-09 20:53:39,Norte,C087,5003,Atún en lata,Granos y Abarrotes,1.2,1,1.2
+T147,2025-09-09 20:53:39,Norte,C087,7001,Shampoo,Cuidado Personal,4.5,2,9.0
+T144,2025-09-10 10:05:56,Sur,C007,5003,Atún en lata,Granos y Abarrotes,1.2,5,6.0
+T144,2025-09-10 10:05:56,Sur,C007,3002,Plátanos (libra),Frutas y Verduras,0.6,4,2.4
+T054,2025-09-10 13:21:57,Norte,C062,6001,Gaseosa 2L,Bebidas,2.5,2,5.0
+T151,2025-09-10 15:49:01,Norte,C071,4001,Pollo Entero (libra),Carnes,2.1,3,6.3
+T177,2025-09-10 17:25:38,Sur,C038,4001,Pollo Entero (libra),Carnes,2.1,1,2.1
+T177,2025-09-10 17:25:38,Sur,C038,5002,Lentejas (kg),Granos y Abarrotes,1.4,4,5.6
+T128,2025-09-11 12:57:06,Sur,C085,1003,Yogurt Natural 1L,Lácteos,1.8,1,1.8
+T128,2025-09-11 12:57:06,Sur,C085,4003,Jamón de Pavo 250g,Carnes,2.8,3,8.4
+T096,2025-09-11 17:40:34,Norte,C064,4001,Pollo Entero (libra),Carnes,2.1,3,6.3
+T096,2025-09-11 17:40:34,Norte,C064,5001,Arroz (kg),Granos y Abarrotes,1.6,2,3.2
+T096,2025-09-11 17:40:34,Norte,C064,4003,Jamón de Pavo 250g,Carnes,2.8,4,11.2
+T096,2025-09-11 17:40:34,Norte,C064,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T179,2025-09-11 18:51:44,Centro,C086,2001,Pan de Molde Blanco,Panadería,1.9,3,5.7
+T179,2025-09-11 18:51:44,Centro,C086,1003,Yogurt Natural 1L,Lácteos,1.8,1,1.8
+T179,2025-09-11 18:51:44,Centro,C086,1002,Queso Fresco 500g,Lácteos,2.5,5,12.5
+T179,2025-09-11 18:51:44,Centro,C086,4001,Pollo Entero (libra),Carnes,2.1,3,6.3
+T018,2025-09-11 20:59:45,Norte,C054,4002,Carne Molida (libra),Carnes,3.5,2,7.0
+T018,2025-09-11 20:59:45,Norte,C054,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,3,2.1
+T180,2025-09-12 09:05:38,Sur,C047,3004,Lechuga Crespa,Frutas y Verduras,0.45,3,1.35
+T024,2025-09-12 12:16:08,Centro,C092,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T024,2025-09-12 12:16:08,Centro,C092,5001,Arroz (kg),Granos y Abarrotes,1.6,4,6.4
+T024,2025-09-12 12:16:08,Centro,C092,1003,Yogurt Natural 1L,Lácteos,1.8,3,5.4
+T101,2025-09-12 19:18:16,Sur,C077,5003,Atún en lata,Granos y Abarrotes,1.2,1,1.2
+T106,2025-09-13 16:09:45,Centro,C046,2002,Croissants (unidad),Panadería,0.5,2,1.0
+T106,2025-09-13 16:09:45,Centro,C046,3004,Lechuga Crespa,Frutas y Verduras,0.45,5,2.25
+T106,2025-09-13 16:09:45,Centro,C046,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T106,2025-09-13 16:09:45,Centro,C046,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T145,2025-09-13 18:36:29,Norte,C092,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T198,2025-09-13 20:42:39,Norte,C052,4001,Pollo Entero (libra),Carnes,2.1,3,6.3
+T198,2025-09-13 20:42:39,Norte,C052,6001,Gaseosa 2L,Bebidas,2.5,1,2.5
+T198,2025-09-13 20:42:39,Norte,C052,5001,Arroz (kg),Granos y Abarrotes,1.6,2,3.2
+T067,2025-09-13 20:46:11,Norte,C090,2001,Pan de Molde Blanco,Panadería,1.9,2,3.8
+T067,2025-09-13 20:46:11,Norte,C090,4003,Jamón de Pavo 250g,Carnes,2.8,5,14.0
+T001,2025-09-14 18:01:29,Centro,C033,3002,Plátanos (libra),Frutas y Verduras,0.6,5,3.0
+T001,2025-09-14 18:01:29,Centro,C033,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,1,2.2
+T001,2025-09-14 18:01:29,Centro,C033,6001,Gaseosa 2L,Bebidas,2.5,2,5.0
+T001,2025-09-14 18:01:29,Centro,C033,4003,Jamón de Pavo 250g,Carnes,2.8,1,2.8
+T001,2025-09-14 18:01:29,Centro,C033,3004,Lechuga Crespa,Frutas y Verduras,0.45,1,0.45
+T001,2025-09-14 18:01:29,Centro,C033,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T111,2025-09-15 10:11:43,Norte,C019,3002,Plátanos (libra),Frutas y Verduras,0.6,3,1.8
+T124,2025-09-15 15:57:17,Norte,C013,1003,Yogurt Natural 1L,Lácteos,1.8,4,7.2
+T124,2025-09-15 15:57:17,Norte,C013,5001,Arroz (kg),Granos y Abarrotes,1.6,3,4.8
+T131,2025-09-15 18:26:11,Centro,C043,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T062,2025-09-15 20:15:11,Centro,C077,2002,Croissants (unidad),Panadería,0.5,2,1.0
+T029,2025-09-16 11:52:08,Norte,C020,8001,Detergente Líquido 1L,Limpieza,5.0,2,10.0
+T029,2025-09-16 11:52:08,Norte,C020,4001,Pollo Entero (libra),Carnes,2.1,3,6.3
+T075,2025-09-17 12:25:53,Sur,C025,8001,Detergente Líquido 1L,Limpieza,5.0,4,20.0
+T115,2025-09-17 19:30:40,Centro,C093,2002,Croissants (unidad),Panadería,0.5,1,0.5
+T115,2025-09-17 19:30:40,Centro,C093,3004,Lechuga Crespa,Frutas y Verduras,0.45,3,1.35
+T115,2025-09-17 19:30:40,Centro,C093,3002,Plátanos (libra),Frutas y Verduras,0.6,5,3.0
+T052,2025-09-18 09:23:35,Sur,C084,6002,Jugo de Naranja 1L,Bebidas,1.75,5,8.75
+T052,2025-09-18 09:23:35,Sur,C084,2002,Croissants (unidad),Panadería,0.5,5,2.5
+T052,2025-09-18 09:23:35,Sur,C084,4001,Pollo Entero (libra),Carnes,2.1,2,4.2
+T140,2025-09-18 09:32:42,Centro,C089,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T140,2025-09-18 09:32:42,Centro,C089,5003,Atún en lata,Granos y Abarrotes,1.2,1,1.2
+T140,2025-09-18 09:32:42,Centro,C089,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,1,2.2
+T140,2025-09-18 09:32:42,Centro,C089,3001,Manzanas (libra),Frutas y Verduras,0.85,2,1.7
+T140,2025-09-18 09:32:42,Centro,C089,3002,Plátanos (libra),Frutas y Verduras,0.6,1,0.6
+T143,2025-09-19 15:35:12,Centro,C096,3002,Plátanos (libra),Frutas y Verduras,0.6,4,2.4
+T143,2025-09-19 15:35:12,Centro,C096,7001,Shampoo,Cuidado Personal,4.5,1,4.5
+T169,2025-09-19 17:04:08,Centro,C091,3004,Lechuga Crespa,Frutas y Verduras,0.45,5,2.25
+T078,2025-09-19 20:58:44,Sur,C007,8001,Detergente Líquido 1L,Limpieza,5.0,4,20.0
+T078,2025-09-19 20:58:44,Sur,C007,4001,Pollo Entero (libra),Carnes,2.1,5,10.5
+T078,2025-09-19 20:58:44,Sur,C007,3001,Manzanas (libra),Frutas y Verduras,0.85,3,2.55
+T160,2025-09-20 19:58:57,Norte,C096,1003,Yogurt Natural 1L,Lácteos,1.8,2,3.6
+T160,2025-09-20 19:58:57,Norte,C096,2001,Pan de Molde Blanco,Panadería,1.9,3,5.7
+T053,2025-09-21 12:19:55,Norte,C020,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,4,12.0
+T010,2025-09-21 19:46:18,Norte,C072,3002,Plátanos (libra),Frutas y Verduras,0.6,5,3.0
+T010,2025-09-21 19:46:18,Norte,C072,6002,Jugo de Naranja 1L,Bebidas,1.75,3,5.25
+T127,2025-09-21 21:00:00,Norte,C023,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,2,1.4
+T127,2025-09-21 21:00:00,Norte,C023,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,1,0.7
+T127,2025-09-21 21:00:00,Norte,C023,6001,Gaseosa 2L,Bebidas,2.5,4,10.0
+T127,2025-09-21 21:00:00,Norte,C023,3001,Manzanas (libra),Frutas y Verduras,0.85,2,1.7
+T034,2025-09-22 10:44:03,Norte,C055,1001,Leche Entera 1L,Lácteos,1.1,2,2.2
+T034,2025-09-22 10:44:03,Norte,C055,5003,Atún en lata,Granos y Abarrotes,1.2,3,3.6
+T034,2025-09-22 10:44:03,Norte,C055,1003,Yogurt Natural 1L,Lácteos,1.8,3,5.4
+T034,2025-09-22 10:44:03,Norte,C055,4002,Carne Molida (libra),Carnes,3.5,3,10.5
+T034,2025-09-22 10:44:03,Norte,C055,1002,Queso Fresco 500g,Lácteos,2.5,3,7.5
+T170,2025-09-22 18:00:08,Sur,C047,4003,Jamón de Pavo 250g,Carnes,2.8,1,2.8
+T170,2025-09-22 18:00:08,Sur,C047,3004,Lechuga Crespa,Frutas y Verduras,0.45,1,0.45
+T170,2025-09-22 18:00:08,Sur,C047,6001,Gaseosa 2L,Bebidas,2.5,5,12.5
+T004,2025-09-22 18:29:15,Norte,C084,3002,Plátanos (libra),Frutas y Verduras,0.6,2,1.2
+T004,2025-09-22 18:29:15,Norte,C084,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,3,6.6
+T004,2025-09-22 18:29:15,Norte,C084,3004,Lechuga Crespa,Frutas y Verduras,0.45,3,1.35
+T004,2025-09-22 18:29:15,Norte,C084,6002,Jugo de Naranja 1L,Bebidas,1.75,4,7.0
+T004,2025-09-22 18:29:15,Norte,C084,5002,Lentejas (kg),Granos y Abarrotes,1.4,4,5.6
+T004,2025-09-22 18:29:15,Norte,C084,3004,Lechuga Crespa,Frutas y Verduras,0.45,1,0.45
+T047,2025-09-22 18:53:14,Centro,C058,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,1,3.0
+T196,2025-09-23 10:28:34,Norte,C020,3001,Manzanas (libra),Frutas y Verduras,0.85,5,4.25
+T196,2025-09-23 10:28:34,Norte,C020,5002,Lentejas (kg),Granos y Abarrotes,1.4,2,2.8
+T196,2025-09-23 10:28:34,Norte,C020,7001,Shampoo,Cuidado Personal,4.5,5,22.5
+T027,2025-09-23 11:31:29,Sur,C042,3002,Plátanos (libra),Frutas y Verduras,0.6,3,1.8
+T027,2025-09-23 11:31:29,Sur,C042,8001,Detergente Líquido 1L,Limpieza,5.0,5,25.0
+T027,2025-09-23 11:31:29,Sur,C042,5001,Arroz (kg),Granos y Abarrotes,1.6,2,3.2
+T027,2025-09-23 11:31:29,Sur,C042,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,2,1.4
+T055,2025-09-23 14:37:20,Norte,C025,5003,Atún en lata,Granos y Abarrotes,1.2,1,1.2
+T055,2025-09-23 14:37:20,Norte,C025,3004,Lechuga Crespa,Frutas y Verduras,0.45,5,2.25
+T055,2025-09-23 14:37:20,Norte,C025,5001,Arroz (kg),Granos y Abarrotes,1.6,2,3.2
+T083,2025-09-23 18:10:23,Centro,C080,3004,Lechuga Crespa,Frutas y Verduras,0.45,2,0.9
+T083,2025-09-23 18:10:23,Centro,C080,6002,Jugo de Naranja 1L,Bebidas,1.75,4,7.0
+T083,2025-09-23 18:10:23,Centro,C080,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,4,12.0
+T083,2025-09-23 18:10:23,Centro,C080,4001,Pollo Entero (libra),Carnes,2.1,5,10.5
+T083,2025-09-23 18:10:23,Centro,C080,3002,Plátanos (libra),Frutas y Verduras,0.6,4,2.4
+T191,2025-09-23 20:49:39,Sur,C056,3001,Manzanas (libra),Frutas y Verduras,0.85,2,1.7
+T191,2025-09-23 20:49:39,Sur,C056,8001,Detergente Líquido 1L,Limpieza,5.0,1,5.0
+T191,2025-09-23 20:49:39,Sur,C056,3001,Manzanas (libra),Frutas y Verduras,0.85,2,1.7
+T191,2025-09-23 20:49:39,Sur,C056,5001,Arroz (kg),Granos y Abarrotes,1.6,2,3.2
+T191,2025-09-23 20:49:39,Sur,C056,2001,Pan de Molde Blanco,Panadería,1.9,1,1.9
+T186,2025-09-24 10:15:08,Sur,C100,7001,Shampoo,Cuidado Personal,4.5,2,9.0
+T186,2025-09-24 10:15:08,Sur,C100,4001,Pollo Entero (libra),Carnes,2.1,4,8.4
+T186,2025-09-24 10:15:08,Sur,C100,1001,Leche Entera 1L,Lácteos,1.1,4,4.4
+T086,2025-09-24 12:17:42,Norte,C031,4002,Carne Molida (libra),Carnes,3.5,2,7.0
+T086,2025-09-24 12:17:42,Norte,C031,3004,Lechuga Crespa,Frutas y Verduras,0.45,3,1.35
+T086,2025-09-24 12:17:42,Norte,C031,2002,Croissants (unidad),Panadería,0.5,3,1.5
+T086,2025-09-24 12:17:42,Norte,C031,5002,Lentejas (kg),Granos y Abarrotes,1.4,2,2.8
+T020,2025-09-24 14:17:17,Norte,C079,3001,Manzanas (libra),Frutas y Verduras,0.85,5,4.25
+T020,2025-09-24 14:17:17,Norte,C079,2002,Croissants (unidad),Panadería,0.5,2,1.0
+T020,2025-09-24 14:17:17,Norte,C079,2001,Pan de Molde Blanco,Panadería,1.9,2,3.8
+T103,2025-09-24 15:58:34,Sur,C004,3001,Manzanas (libra),Frutas y Verduras,0.85,3,2.55
+T056,2025-09-24 16:11:13,Sur,C089,7001,Shampoo,Cuidado Personal,4.5,3,13.5
+T056,2025-09-24 16:11:13,Sur,C089,5002,Lentejas (kg),Granos y Abarrotes,1.4,2,2.8
+T056,2025-09-24 16:11:13,Sur,C089,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,4,2.8
+T197,2025-09-24 19:01:22,Sur,C016,3002,Plátanos (libra),Frutas y Verduras,0.6,3,1.8
+T197,2025-09-24 19:01:22,Sur,C016,1003,Yogurt Natural 1L,Lácteos,1.8,3,5.4
+T197,2025-09-24 19:01:22,Sur,C016,5002,Lentejas (kg),Granos y Abarrotes,1.4,2,2.8
+T197,2025-09-24 19:01:22,Sur,C016,4002,Carne Molida (libra),Carnes,3.5,1,3.5
+T188,2025-09-25 10:27:00,Sur,C084,5001,Arroz (kg),Granos y Abarrotes,1.6,4,6.4
+T159,2025-09-25 14:37:40,Centro,C098,7002,Papel Higiénico (4 rollos),Cuidado Personal,2.2,4,8.8
+T159,2025-09-25 14:37:40,Centro,C098,3003,Tomate Riñón (libra),Frutas y Verduras,0.7,3,2.1
+T146,2025-09-26 10:16:47,Sur,C034,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,1,3.0
+T146,2025-09-26 10:16:47,Sur,C034,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,3,9.0
+T146,2025-09-26 10:16:47,Sur,C034,2001,Pan de Molde Blanco,Panadería,1.9,4,7.6
+T146,2025-09-26 10:16:47,Sur,C034,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,2,6.0
+T005,2025-09-26 12:45:54,Sur,C086,5002,Lentejas (kg),Granos y Abarrotes,1.4,1,1.4
+T005,2025-09-26 12:45:54,Sur,C086,3002,Plátanos (libra),Frutas y Verduras,0.6,4,2.4
+T037,2025-09-26 13:01:12,Norte,C017,3002,Plátanos (libra),Frutas y Verduras,0.6,3,1.8
+T037,2025-09-26 13:01:12,Norte,C017,1003,Yogurt Natural 1L,Lácteos,1.8,2,3.6
+T037,2025-09-26 13:01:12,Norte,C017,6002,Jugo de Naranja 1L,Bebidas,1.75,4,7.0
+T037,2025-09-26 13:01:12,Norte,C017,8001,Detergente Líquido 1L,Limpieza,5.0,1,5.0
+T113,2025-09-26 13:26:08,Norte,C045,3004,Lechuga Crespa,Frutas y Verduras,0.45,1,0.45
+T091,2025-09-26 17:59:20,Sur,C093,4002,Carne Molida (libra),Carnes,3.5,4,14.0
+T091,2025-09-26 17:59:20,Sur,C093,4002,Carne Molida (libra),Carnes,3.5,5,17.5
+T091,2025-09-26 17:59:20,Sur,C093,7001,Shampoo,Cuidado Personal,4.5,1,4.5
+T122,2025-09-27 09:06:17,Norte,C008,5004,Aceite de Girasol 1L,Granos y Abarrotes,3.0,1,3.0
+T122,2025-09-27 09:06:17,Norte,C008,1003,Yogurt Natural 1L,Lácteos,1.8,4,7.2
+T074,2025-09-27 09:15:09,Centro,C001,6002,Jugo de Naranja 1L,Bebidas,1.75,5,8.75
