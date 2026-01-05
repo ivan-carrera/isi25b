@@ -1,0 +1,303 @@
+id,nombre,precio,stock_actual,punto_reorden,pronostico_venta
+100,Laptop Gamer Muestra (Bajo Stock),1500,2,10,25
+101,Cable HDMI Básico (Stock Alto),15,200,20,50
+102,Audífonos Noise Cancelling Lenovo Gamer,306.71,79,26,88
+103,Mouse Inalámbrico Xiaomi Slim,90.75,83,23,86
+104,Lavadora Apple Business,585.53,17,26,23
+105,Parlante Bluetooth Canon RGB,52.34,2,16,23
+106,Lavadora Dell Max,760.47,3,6,29
+107,Disco Duro Externo Canon Pro,94.79,97,23,84
+108,Impresora Multifunción Canon Plus,316.36,20,7,38
+109,Parlante Bluetooth Dell Lite,184.12,91,6,79
+110,Parlante Bluetooth Xiaomi Gamer,102.64,19,26,31
+111,Parlante Bluetooth Samsung Pro,169.47,43,29,23
+112,Cargador Rápido Microsoft RGB,25.41,25,16,19
+113,Cámara Reflex Xiaomi Lite,1354.24,7,17,0
+114,Laptop Asus Home Edition,1829.67,73,15,55
+115,Monitor Lenovo Ultra,362.24,16,16,40
+116,Consola de Videojuegos LG Gamer,303.02,37,11,60
+117,Impresora Multifunción Epson Business,174.49,7,20,14
+118,Laptop Sony Slim,1844.53,15,8,11
+119,Consola de Videojuegos Canon Max,349.99,29,13,53
+120,Parlante Bluetooth Lenovo Series X,150.52,36,5,18
+121,Mouse Inalámbrico Lenovo Plus,56.0,50,20,55
+122,Smartphone Apple Lite,1006.1,82,9,106
+123,Router Wi-Fi 6 Xiaomi Lite,202.33,12,22,0
+124,Lavadora Logitech Lite,621.34,40,21,51
+125,Lavadora Xiaomi 4K,994.47,34,10,14
+126,Cargador Rápido Apple Plus,46.1,17,11,46
+127,Router Wi-Fi 6 Xiaomi Home Edition,151.27,88,14,101
+128,Consola de Videojuegos Asus Pro,342.42,70,10,81
+129,Parlante Bluetooth Samsung 4K,179.38,92,13,78
+130,Router Wi-Fi 6 Asus Slim,100.44,60,9,70
+131,Parlante Bluetooth Sony Max,91.84,88,5,79
+132,Smart TV Apple Series X,674.63,5,16,0
+133,Impresora Multifunción Canon Pro,327.0,48,9,47
+134,Refrigeradora LG Lite,1038.47,75,25,80
+135,Teclado Mecánico Microsoft Series X,93.34,8,21,0
+136,Smart TV Lenovo Business,1561.68,26,15,52
+137,Cargador Rápido Samsung RGB,43.27,4,11,2
+138,Consola de Videojuegos Canon Slim,321.22,14,28,32
+139,Cable HDMI Nintendo Pro,26.98,48,26,34
+140,Audífonos Noise Cancelling Canon 4K,194.98,54,21,60
+141,Cámara Reflex Xiaomi Business,1297.12,2,6,28
+142,Tablet Dell Home Edition,845.77,33,24,48
+143,Smartphone Nintendo Gamer,824.61,24,15,20
+144,Smart TV Asus Max,1878.46,7,9,26
+145,Cámara Reflex Microsoft Pro,531.19,58,12,70
+146,Laptop Lenovo Ultra,2012.27,29,11,10
+147,Cargador Rápido Samsung Home Edition,36.42,0,5,0
+148,Parlante Bluetooth Sony Business,167.65,85,24,81
+149,Tablet Sony Gamer,269.78,18,21,48
+150,Teclado Mecánico Asus Home Edition,50.63,1,20,2
+151,Disco Duro Externo HP RGB,100.57,91,14,103
+152,Smart TV Apple Slim,781.4,70,15,87
+153,Monitor Canon Ultra,492.18,69,30,54
+154,Router Wi-Fi 6 Lenovo Pro,191.88,7,23,8
+155,Mouse Inalámbrico Sony Series X,46.36,80,11,73
+156,Laptop Apple 4K,2325.65,89,14,73
+157,Router Wi-Fi 6 Apple RGB,126.91,23,23,36
+158,Cámara Reflex Dell Series X,630.51,47,5,30
+159,Monitor Samsung Plus,277.79,24,9,21
+160,Cámara Reflex Asus Lite,862.83,67,17,64
+161,Tablet Samsung RGB,512.11,19,13,1
+162,Monitor Dell Lite,257.23,83,15,110
+163,Laptop Dell Business,1116.27,41,11,37
+164,Refrigeradora LG Plus,1641.62,5,9,24
+165,Disco Duro Externo Samsung Slim,133.81,68,21,75
+166,Smart TV Epson Business,1648.54,12,8,0
+167,Cargador Rápido HP Pro,26.82,47,28,59
+168,Mouse Inalámbrico Lenovo Pro,30.91,51,19,53
+169,Cable HDMI Microsoft Ultra,10.61,73,5,101
+170,Lavadora Apple Gamer,558.69,12,15,28
+171,Mouse Inalámbrico Dell Gamer,76.75,42,17,60
+172,Lavadora Samsung Plus,875.27,54,22,40
+173,Laptop Logitech Lite,1401.28,38,24,33
+174,Cargador Rápido Microsoft Max,42.54,60,18,85
+175,Impresora Multifunción Microsoft Gamer,171.01,36,7,62
+176,Smart TV Nintendo Home Edition,1937.81,91,14,109
+177,Laptop Dell 4K,822.68,12,15,28
+178,Refrigeradora LG 4K,1683.14,30,16,33
+179,Cable HDMI Apple Lite,23.79,12,16,33
+180,Consola de Videojuegos Samsung Plus,444.11,51,10,55
+181,Cámara Reflex Xiaomi Series X,718.38,53,13,55
+182,Lavadora Apple Ultra,834.09,25,20,32
+183,Cable HDMI Canon Slim,23.16,88,13,94
+184,Parlante Bluetooth Logitech Pro,92.67,18,7,16
+185,Refrigeradora Apple Slim,1559.85,90,5,91
+186,Cámara Reflex Dell Plus,1012.84,72,13,85
+187,Parlante Bluetooth Apple Series X,121.6,3,26,0
+188,Parlante Bluetooth HP Pro,98.89,98,30,125
+189,Smart TV Microsoft Home Edition,1526.56,97,27,100
+190,Cable HDMI LG Plus,18.01,60,16,53
+191,Cable HDMI Asus Home Edition,18.89,23,8,30
+192,Consola de Videojuegos Apple Series X,400.81,11,6,5
+193,Laptop Microsoft Series X,2438.88,83,29,63
+194,Parlante Bluetooth Nintendo RGB,187.88,80,18,76
+195,Lavadora Microsoft Home Edition,830.8,49,29,32
+196,Smartphone Microsoft Plus,1446.5,4,5,22
+197,Lavadora Epson 4K,753.44,7,11,22
+198,Consola de Videojuegos Sony Series X,514.19,83,22,113
+199,Cámara Reflex Microsoft Plus,1024.54,33,21,62
+200,Smartphone Canon Home Edition,564.05,89,5,115
+201,Smartphone Epson RGB,919.2,66,29,63
+202,Laptop LG Series X,1599.29,93,25,90
+203,Laptop Apple 4K,1904.8,3,13,0
+204,Refrigeradora Lenovo RGB,1279.03,19,6,3
+205,Audífonos Noise Cancelling Asus Slim,303.8,0,11,8
+206,Cargador Rápido Epson Ultra,43.88,10,6,36
+207,Refrigeradora Apple Gamer,1659.95,76,7,100
+208,Refrigeradora Sony Home Edition,1969.18,11,27,0
+209,Disco Duro Externo HP Series X,115.03,84,20,102
+210,Cargador Rápido LG Slim,28.2,93,22,94
+211,Impresora Multifunción Apple Slim,286.4,53,27,38
+212,Disco Duro Externo Lenovo 4K,125.87,83,22,111
+213,Cámara Reflex Canon Series X,1311.47,28,5,41
+214,Smart TV Microsoft Ultra,507.59,37,18,32
+215,Smartphone Microsoft Max,895.06,58,25,76
+216,Monitor Asus RGB,138.55,64,8,46
+217,Parlante Bluetooth LG Series X,90.94,36,21,17
+218,Smartphone HP 4K,1351.4,21,11,18
+219,Lavadora Xiaomi Slim,1197.05,17,17,37
+220,Cámara Reflex LG Lite,1246.91,49,23,30
+221,Impresora Multifunción Lenovo Plus,220.44,19,15,14
+222,Cámara Reflex LG Home Edition,1262.41,82,19,92
+223,Cargador Rápido Epson Ultra,28.41,36,6,66
+224,Teclado Mecánico Lenovo Business,142.12,67,13,63
+225,Consola de Videojuegos Dell RGB,480.76,93,26,110
+226,Lavadora Apple RGB,1133.32,21,14,28
+227,Smartphone Samsung Gamer,988.77,76,30,90
+228,Teclado Mecánico LG Plus,135.13,89,28,88
+229,Audífonos Noise Cancelling Asus Home Edition,374.6,34,28,38
+230,Refrigeradora Sony Ultra,1763.06,10,30,32
+231,Parlante Bluetooth Canon RGB,39.51,11,30,16
+232,Audífonos Noise Cancelling HP Max,107.78,28,25,40
+233,Mouse Inalámbrico Microsoft Ultra,24.6,27,20,9
+234,Lavadora Epson Plus,1077.11,29,19,9
+235,Parlante Bluetooth Canon Lite,103.72,14,17,36
+236,Disco Duro Externo HP Series X,74.3,94,11,96
+237,Tablet Canon Ultra,796.58,67,29,76
+238,Lavadora Epson Home Edition,451.26,96,30,86
+239,Smart TV Apple 4K,1473.44,85,22,101
+240,Parlante Bluetooth Dell Pro,44.87,35,18,37
+241,Cámara Reflex Lenovo Ultra,597.89,64,12,74
+242,Consola de Videojuegos Logitech Lite,530.35,99,21,85
+243,Parlante Bluetooth Epson Max,183.27,39,28,25
+244,Disco Duro Externo Apple Slim,148.77,50,20,36
+245,Laptop Canon Plus,2373.54,11,25,36
+246,Lavadora Sony Plus,469.58,32,9,16
+247,Lavadora Sony Ultra,636.76,35,22,39
+248,Smart TV Sony Ultra,1731.46,5,27,32
+249,Cámara Reflex Xiaomi Home Edition,1022.89,1,22,14
+250,Disco Duro Externo Nintendo Pro,144.36,82,30,71
+251,Lavadora Samsung Max,571.35,47,23,53
+252,Audífonos Noise Cancelling Asus Lite,278.86,7,18,11
+253,Audífonos Noise Cancelling Nintendo Pro,157.85,0,10,0
+254,Cargador Rápido LG RGB,21.68,13,14,36
+255,Monitor Nintendo Gamer,354.88,22,12,12
+256,Lavadora Xiaomi Business,1083.52,22,15,24
+257,Mouse Inalámbrico HP 4K,44.16,45,19,28
+258,Cargador Rápido Nintendo Slim,45.5,57,12,53
+259,Laptop Microsoft Gamer,2114.37,55,10,70
+260,Cable HDMI Epson RGB,13.04,24,18,9
+261,Disco Duro Externo Apple Plus,88.53,27,14,11
+262,Cable HDMI Lenovo RGB,17.69,1,21,2
+263,Impresora Multifunción Lenovo 4K,247.27,4,10,12
+264,Router Wi-Fi 6 Xiaomi Series X,205.61,68,23,67
+265,Smart TV Dell 4K,1803.76,46,17,75
+266,Impresora Multifunción Microsoft RGB,326.1,34,8,14
+267,Smartphone Epson 4K,670.15,93,12,104
+268,Tablet Xiaomi Max,371.37,51,6,57
+269,Smartphone Epson Series X,1291.44,47,26,54
+270,Router Wi-Fi 6 Samsung Home Edition,169.23,36,20,19
+271,Consola de Videojuegos Samsung Ultra,358.12,25,17,46
+272,Monitor Lenovo Pro,383.28,39,11,33
+273,Cámara Reflex Epson Home Edition,512.14,26,11,21
+274,Router Wi-Fi 6 LG Pro,106.23,58,18,51
+275,Monitor Dell Pro,255.05,52,22,34
+276,Parlante Bluetooth Lenovo Gamer,181.59,16,17,31
+277,Monitor Canon Lite,415.57,84,7,102
+278,Monitor Xiaomi Lite,305.52,50,10,72
+279,Cable HDMI HP Ultra,26.29,72,12,55
+280,Cargador Rápido Nintendo RGB,44.76,56,16,69
+281,Smartphone Lenovo 4K,834.38,1,15,15
+282,Impresora Multifunción Epson RGB,363.72,100,14,91
+283,Disco Duro Externo HP Gamer,71.69,95,7,116
+284,Disco Duro Externo Lenovo Gamer,50.8,79,22,82
+285,Monitor Epson 4K,172.98,81,22,87
+286,Consola de Videojuegos Xiaomi Max,562.01,35,7,40
+287,Monitor Xiaomi Pro,232.35,39,29,59
+288,Smart TV Nintendo Gamer,1203.7,84,10,72
+289,Smart TV Canon Series X,746.18,10,8,0
+290,Smartphone Logitech Series X,1131.08,40,22,34
+291,Router Wi-Fi 6 Epson Max,121.71,3,6,0
+292,Mouse Inalámbrico Samsung Slim,71.03,69,17,73
+293,Smartphone Dell Plus,1209.01,40,20,56
+294,Monitor Epson Ultra,128.05,8,9,0
+295,Parlante Bluetooth Epson Max,154.86,12,29,34
+296,Laptop Samsung Series X,1735.25,28,26,24
+297,Lavadora Apple Slim,926.56,79,18,76
+298,Consola de Videojuegos Lenovo RGB,492.94,67,12,47
+299,Impresora Multifunción Asus Plus,261.88,20,9,47
+300,Consola de Videojuegos Canon Home Edition,363.08,44,27,27
+301,Impresora Multifunción Nintendo RGB,296.79,2,12,15
+302,Laptop Microsoft Plus,1728.94,93,22,117
+303,Disco Duro Externo Asus Business,141.73,49,14,62
+304,Impresora Multifunción Asus RGB,372.85,87,17,116
+305,Disco Duro Externo Xiaomi Business,131.7,33,5,32
+306,Consola de Videojuegos Canon Plus,390.07,91,29,77
+307,Smart TV Lenovo Business,1567.34,9,29,39
+308,Audífonos Noise Cancelling Lenovo Series X,353.91,74,12,67
+309,Teclado Mecánico Xiaomi RGB,130.49,39,28,45
+310,Audífonos Noise Cancelling Dell RGB,225.1,76,18,82
+311,Smart TV Sony Max,1255.38,86,21,90
+312,Mouse Inalámbrico Lenovo Plus,43.32,48,10,70
+313,Audífonos Noise Cancelling Dell Max,384.19,78,20,64
+314,Impresora Multifunción Epson Series X,345.02,8,12,19
+315,Monitor Asus Pro,149.0,22,29,39
+316,Cable HDMI Dell Slim,26.84,5,16,0
+317,Mouse Inalámbrico LG Gamer,46.36,80,19,97
+318,Impresora Multifunción Apple Pro,339.89,27,13,25
+319,Lavadora Canon Slim,469.44,9,12,6
+320,Cámara Reflex Lenovo Lite,995.64,19,23,27
+321,Impresora Multifunción Samsung Lite,323.98,2,23,0
+322,Refrigeradora Nintendo 4K,1218.05,8,21,14
+323,Disco Duro Externo Dell 4K,64.81,10,14,6
+324,Impresora Multifunción Apple Lite,232.81,40,30,37
+325,Audífonos Noise Cancelling LG Series X,181.37,19,11,0
+326,Laptop Apple Lite,2263.54,39,25,58
+327,Router Wi-Fi 6 Nintendo Plus,242.8,15,7,39
+328,Tablet Lenovo Plus,405.88,85,11,67
+329,Smartphone Apple Slim,510.09,70,12,93
+330,Disco Duro Externo HP Max,88.84,76,14,83
+331,Disco Duro Externo Nintendo Ultra,92.35,14,24,39
+332,Consola de Videojuegos Microsoft Plus,378.85,47,20,57
+333,Teclado Mecánico Asus Lite,59.51,66,28,81
+334,Cámara Reflex LG Max,602.79,90,30,118
+335,Teclado Mecánico Asus Gamer,64.66,23,30,52
+336,Cable HDMI Canon Pro,13.63,51,30,39
+337,Monitor Logitech Max,187.13,99,27,104
+338,Monitor Lenovo Slim,379.78,45,7,65
+339,Impresora Multifunción Logitech Max,309.41,88,15,103
+340,Refrigeradora Logitech Lite,1857.17,98,14,96
+341,Laptop Epson Business,2094.46,83,14,82
+342,Parlante Bluetooth Microsoft Series X,105.97,61,30,69
+343,Laptop Apple Home Edition,2275.89,52,17,74
+344,Disco Duro Externo Lenovo Pro,62.55,27,12,34
+345,Consola de Videojuegos Dell 4K,482.92,21,16,3
+346,Cargador Rápido LG Home Edition,18.38,74,20,62
+347,Cargador Rápido Asus Series X,17.16,9,21,38
+348,Disco Duro Externo Xiaomi Plus,72.01,5,12,0
+349,Smartphone Asus Home Edition,1234.3,53,13,62
+350,Teclado Mecánico Samsung Series X,156.15,65,23,50
+351,Cable HDMI Apple Plus,14.41,79,20,97
+352,Smartphone Dell Ultra,949.77,63,12,46
+353,Lavadora Nintendo Lite,1072.16,16,25,1
+354,Tablet Dell Plus,473.01,87,7,113
+355,Cargador Rápido Microsoft RGB,40.16,63,21,76
+356,Disco Duro Externo Xiaomi Plus,99.45,27,27,44
+357,Router Wi-Fi 6 Canon RGB,119.98,55,25,61
+358,Cámara Reflex Xiaomi Plus,750.82,34,23,46
+359,Disco Duro Externo Canon Max,148.24,41,11,53
+360,Lavadora HP Series X,930.94,93,17,75
+361,Laptop Lenovo Gamer,1717.04,70,23,94
+362,Cargador Rápido Epson Max,21.66,83,22,93
+363,Smart TV Lenovo Home Edition,1984.1,63,8,43
+364,Refrigeradora Nintendo Business,1131.08,99,11,103
+365,Mouse Inalámbrico Dell Gamer,46.6,55,21,49
+366,Cargador Rápido Logitech Ultra,46.54,83,17,110
+367,Tablet Dell Series X,638.73,46,8,47
+368,Smart TV Apple RGB,1660.41,69,24,63
+369,Mouse Inalámbrico HP 4K,64.71,25,28,42
+370,Disco Duro Externo Logitech Max,114.13,94,8,77
+371,Cable HDMI Microsoft Ultra,23.39,70,28,88
+372,Laptop Sony Max,2299.99,77,6,68
+373,Smartphone LG Gamer,703.57,8,22,33
+374,Parlante Bluetooth Microsoft Gamer,87.05,39,24,65
+375,Parlante Bluetooth Microsoft Plus,143.4,8,16,35
+376,Cable HDMI Nintendo Plus,29.17,83,30,91
+377,Disco Duro Externo Asus Max,107.72,45,15,72
+378,Router Wi-Fi 6 Lenovo Plus,196.36,97,15,86
+379,Router Wi-Fi 6 Sony Pro,208.67,24,8,29
+380,Laptop HP Max,1053.63,86,19,102
+381,Cable HDMI Logitech Series X,29.67,3,22,0
+382,Disco Duro Externo LG Max,109.5,31,5,27
+383,Router Wi-Fi 6 Asus Pro,200.9,24,13,34
+384,Disco Duro Externo Xiaomi Home Edition,56.74,81,20,96
+385,Disco Duro Externo Asus Lite,82.48,48,27,75
+386,Consola de Videojuegos Epson 4K,336.88,81,28,87
+387,Impresora Multifunción Epson Max,166.26,1,19,0
+388,Disco Duro Externo Logitech Series X,75.88,11,7,0
+389,Parlante Bluetooth LG Plus,82.77,10,19,34
+390,Cargador Rápido Canon Gamer,36.59,0,9,27
+391,Cargador Rápido LG 4K,20.52,79,17,95
+392,Cargador Rápido Canon Gamer,49.1,80,10,70
+393,Lavadora LG Ultra,528.09,33,7,49
+394,Cámara Reflex LG Lite,1355.79,50,22,48
+395,Monitor Asus Pro,345.67,84,28,95
+396,Disco Duro Externo Xiaomi Business,135.62,49,21,35
+397,Smartphone Lenovo Pro,1325.42,79,22,80
+398,Parlante Bluetooth Xiaomi Pro,139.87,67,30,71
+399,Laptop HP Max,1927.56,71,26,68
+400,Laptop LG Pro,1284.85,41,18,48
+401,Monitor Canon Max,178.38,65,5,80
